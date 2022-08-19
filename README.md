@@ -36,7 +36,7 @@ The `Atlas` folder contains 4 files:
     regions in the MNI space
 
 <p align="center">
-<img src="readme_files/ALANs_networks.png" width="65%" height="65%" />
+<img src="readme_files/ALANs_networks.png" width="55%" height="55%" />
 </p>
 
 -   `ALANs_description.csv`: CSV file containing a full description of
