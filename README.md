@@ -18,7 +18,7 @@ In the line of the
 [HAMOTA](https://github.com/loiclabache/HAMOTA_brainAtlas) atlases that
 have bee proposed to the community, the 95 regions that have been
 selected and described in the present work are available as an atlas of
-the anatomo-functional basis of visuo-spatial attention.
+the **anatomo-functional basis of visuo-spatial attention**.
 
 <p align="center">
 <img src="readme_files/ALANs_volume.gif" width="50%" height="50%" />
