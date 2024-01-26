@@ -13,15 +13,15 @@ visuo-spatial attention** in human.
 
 For usage of the ***manuscript***, please cite:
 
-**Labache, L.**, Petit, L., Joliot, & Zago, L. (2022). Atlas for the
-Lateralized Visuospatial Attention Networks: Insights from fMRI and
-Network Analyses. DOI: […](...)
+- **Labache, L.**, Petit, L., Joliot, & Zago, L. (2022). Atlas for the
+  Lateralized Visuospatial Attention Networks: Insights from fMRI and
+  Network Analyses. DOI: […](...)
 
 For usage of the associated ***code***, please also cite:
 
-**Labache, L.**, Petit, L., Joliot, & Zago, L. (2022). Atlas for the
-Lateralized Visuospatial Attention Networks: Insights from fMRI and
-Network Analyses. DOI: […](https://zenodo.org/doi/...)
+- **Labache, L.**, Petit, L., Joliot, & Zago, L. (2022). Atlas for the
+  Lateralized Visuospatial Attention Networks: Insights from fMRI and
+  Network Analyses. DOI: […](https://zenodo.org/doi/...)
 
 ------------------------------------------------------------------------
 
