@@ -39,7 +39,7 @@ for (i in 1:length(nom_methode)){
 nb_cluster_table = table(nbPartition)
 nb_cluster = as.integer(names(nb_cluster_table[which.max(nb_cluster_table)]))
 # Clustering:
-h = hclust(as.dist(((1-moyen)/2),
+h = hclust(as.dist(((1-rs_data_avg)/2),
                    diag = FALSE),
            method = "ward.D2")
 set.seed(13)
@@ -75,3 +75,8 @@ for (i in 1:length(table(restingStateNetwork))){
     res_BC[k, ][restingStateNetwork == i] = bc_N
   }
 }
+
+# "res_DC" is a matrix that contains the degree centrality, or strength,
+# of each region for each individual.
+# "res_BC" is a matrix that contains the betweenness centrality, or sunexity,
+# of each region for each individual.

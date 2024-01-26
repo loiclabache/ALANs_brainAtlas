@@ -68,3 +68,5 @@ for (abbr in region) {
   }
 }
 rownames(results) = seq(nrow(results))
+
+# "results" contains the selected brain regions.
