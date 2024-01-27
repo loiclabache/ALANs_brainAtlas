@@ -119,7 +119,8 @@ The `Data` folder contains 2 files:
 
 ## Other papers and atlases that might interest you
 
-- The seminal paper describing the LBJ task: Zago, L., et al. 2017. DOI:
+- The seminal paper describing the Line Bisection Judgment task: Zago,
+  L., et al. 2017. DOI:
   [10.1016/j.neuropsychologia.2016.11.024](https://doi.org/10.1016/j.neuropsychologia.2016.11.024)
 - SEntence Supramodal Areas AtlaS:
   [SENSAAS](https://github.com/loiclabache/SENSAAS_brainAtlas)
