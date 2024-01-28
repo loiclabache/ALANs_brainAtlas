@@ -1,8 +1,6 @@
 Atlas of Lateralized visuospatial Attentional Networks (ALANs)
 ================
 
-## Reference
-
 In alignment with the
 [SENSAAS](https://github.com/loiclabache/SENSAAS_brainAtlas),
 [WMCA](https://github.com/loiclabache/WMCA_brainAtlas) and
@@ -10,6 +8,10 @@ In alignment with the
 repository features **ALANs**, an atlas comprising 95 specifically
 selected regions supporting the **anatomo-functional basis of
 visuo-spatial attention** in human.
+
+------------------------------------------------------------------------
+
+## Reference
 
 For usage of the ***manuscript***, please cite:
 
@@ -60,25 +62,6 @@ among different studies**, thereby enhancing the **robustness** and
 
 ------------------------------------------------------------------------
 
-## Code release
-
-The `Script` folder includes 2 `R` scripts alongside.
-
-The `R` scripts are designed to facilitate the replication of results as
-detailed in the `Method Section` of the **manuscript**.
-
-- `1_ROI_selection.R`: `R` script to select brain regions that are both
-  significantly activated in the right hemisphere and rightward
-  lateralized, and regions that are both significantly activated in the
-  left hemisphere and leftward lateralized.
-- `2_rest_classification_and_metrics.R`: `R` script to perform
-  Agglomerative Hierarchical Classification on the average intrinsic
-  connectivity matrix, to select the appropriate number of clusters, and
-  to compute, for each participant and region, the Degree and the
-  Betweenness Centrality.
-
-------------------------------------------------------------------------
-
 ## Data release
 
 The `Atlas` folder contains 4 files:
@@ -114,6 +97,24 @@ The `Data` folder contains 2 files:
 
 - `130_participants_BOLD_rs_BILGIN.Rds`: resting-state connectivity
   matrices of the 95 ALANs regions for each participant.
+
+------------------------------------------------------------------------
+
+## Code release
+
+The `Script` folder includes 2 `R` scripts. The `R` scripts are designed
+to facilitate the replication of results as detailed in the
+`Method Section` of the **manuscript**.
+
+- `1_ROI_selection.R`: `R` script to select brain regions that are both
+  significantly activated in the right hemisphere and rightward
+  lateralized, and regions that are both significantly activated in the
+  left hemisphere and leftward lateralized.
+- `2_rest_classification_and_metrics.R`: `R` script to perform
+  Agglomerative Hierarchical Classification on the average intrinsic
+  connectivity matrix, to select the appropriate number of clusters, and
+  to compute, for each participant and region, the Degree and the
+  Betweenness Centrality.
 
 ------------------------------------------------------------------------
 
