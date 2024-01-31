@@ -121,8 +121,8 @@ to facilitate the replication of results as detailed in the
 ## Other papers and atlases that might interest you
 
 - The seminal paper describing the Line Bisection Judgment task: Zago,
-  L., et al. 2017. DOI:
-  [10.1016/j.neuropsychologia.2016.11.024](https://doi.org/10.1016/j.neuropsychologia.2016.11.024)
+  L., et al. 2016. DOI:
+  [10.1016/j.neuropsychologia.2015.11.018](https://doi.org/10.1016/j.neuropsychologia.2015.11.018)
 - SEntence Supramodal Areas AtlaS:
   [SENSAAS](https://github.com/loiclabache/SENSAAS_brainAtlas)
 - Language-and-Memory atlas:
