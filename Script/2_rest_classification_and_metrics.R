@@ -1,20 +1,20 @@
 ################################################################################
-# Written by Loïc Labache, Ph.D.
-# Holmes Lab, Department of Psychiatry - Rutgers University
-# January 26, 2024
+# Written by Loïc Labache, Ph.D.                                               #
+# Holmes Lab, Department of Psychiatry - Rutgers University                    #
+# January 26, 2024                                                             #
 ################################################################################
 
-# Packages:
+# Packages......................................................................
 #...............................................................................
 packages <- c("here", "psych", "NbClust", "igraph", "qgraph")
 lapply(packages, require, character.only = T)
 
-# Load Data:
+# Load Data.....................................................................
 #...............................................................................
 path_data = "Data"
 rs_data = readRDS(here(path_data, "130_participants_BOLD_rs_BILGIN.Rds"))
 
-# Classification:
+# Classification................................................................
 #...............................................................................
 for (i in 1:dim(rs_data)[1]){
   rs_data[i,,] = fisherz(rs_data[i,,])
@@ -45,7 +45,7 @@ h = hclust(as.dist(((1-rs_data_avg)/2),
 set.seed(13)
 restingStateNetwork = cutree(h, nb_cluster)
 
-# Graph Theory Metrics:
+# Graph Theory Metrics..........................................................
 #...............................................................................
 pos_rs_data = rs_data
 for (i in 1:dim(pos_rs_data)[1]){

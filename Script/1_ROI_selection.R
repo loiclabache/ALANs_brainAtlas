@@ -1,20 +1,20 @@
 ################################################################################
-# Written by Loïc Labache, Ph.D.
-# Holmes Lab, Department of Psychiatry - Rutgers University
-# January 26, 2024
+# Written by Loïc Labache, Ph.D.                                               #
+# Holmes Lab, Department of Psychiatry - Rutgers University                    #
+# January 26, 2024                                                             #
 ################################################################################
 
-# Packages:
+# Packages......................................................................
 #...............................................................................
 packages <- c("here", "dplyr")
 lapply(packages, require, character.only = T)
 
-# Load Data:
+# Load Data.....................................................................
 #...............................................................................
 path_data = "Data"
 activation = read.csv(here(path_data, "130_participants_BOLD_LBJ_BILGIN.txt"))
 
-# Selection of Significant Regions:
+# Selection of Significant Regions..............................................
 #...............................................................................
 results = data.frame(Abbreviation = character(), Hemisphere = character(),
                      Avg_L = numeric(), P_Value_L = numeric(), T_Value_L = numeric(), 
