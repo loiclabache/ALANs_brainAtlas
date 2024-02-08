@@ -101,7 +101,7 @@ The `Data` folder contains 3 files and 2 sub-folders:
 - `130_participants_BOLD_rs_BILGIN.Rds`: resting-state connectivity
   matrices of the 95 ALANs regions for each participant.
 
-- `comparison_AICHA_Yan2023_10000_2mm.csv`: assignment of each region of
+- `comparison_AICHA_Yan2023_1000_2mm.csv`: assignment of each region of
   the [AICHA](https://doi.org/10.1016/j.jneumeth.2015.07.013) atlas to
   one of the seven canonical networks proposed by Yan and colleagues
   (2023, DOI:
