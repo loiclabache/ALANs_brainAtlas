@@ -101,7 +101,7 @@ The `Data` folder contains 3 files and 2 sub-folders:
 - `130_participants_BOLD_rs_BILGIN.Rds`: resting-state connectivity
   matrices of the 95 ALANs regions for each participant.
 
-- `comparison_AICHA_Yan2023_1000_2mm.csv`: assignment of each region of
+- `comparison_AICHA_Yan2023_400_2mm.csv`: assignment of each region of
   the [AICHA](https://doi.org/10.1016/j.jneumeth.2015.07.013) atlas to
   one of the seven canonical networks proposed by Yan and colleagues
   (2023, DOI:
@@ -112,13 +112,13 @@ The `Data` folder contains 3 files and 2 sub-folders:
   2021, MNI space, resolution of 2mm) of the AICHA atlas.
 
 - the sub-folder `Yan_2023_v0.28.3` contains two files. The first one:
-  `1000Parcels_Yeo2011_7Networks_FSLMNI152_2mm.nii.gz` corresponding to
+  `400Parcels_Yeo2011_7Networks_FSLMNI152_2mm.nii.gz` corresponding to
   the version
-  [0.28.3](https://github.com/ThomasYeoLab/CBIG/blob/e9ae5776742f9e04afaeb6156aaf0085007bea41/stable_projects/brain_parcellation/Yan2023_homotopic/parcellations/MNI/yeo7/1000Parcels_Yeo2011_7Networks_FSLMNI152_2mm.nii.gz)
-  (MNI space, 1000 parcels, 2mm) of the atlas proposed by Yan and
+  [0.28.3](https://github.com/ThomasYeoLab/CBIG/blob/e9ae5776742f9e04afaeb6156aaf0085007bea41/stable_projects/brain_parcellation/Yan2023_homotopic/parcellations/MNI/yeo7/400Parcels_Yeo2011_7Networks_FSLMNI152_2mm.nii.gz)
+  (MNI space, 400 parcels, 2mm) of the atlas proposed by Yan and
   colleagues (2023, DOI:
   [10.1016/j.neuroimage.2023.120010](https://doi.org/10.1016/j.neuroimage.2023.120010)).
-  The second file: `1000Parcels_Yeo2011_7Networks_LUT.txt` contains a
+  The second file: `400Parcels_Yeo2011_7Networks_LUT.txt` contains a
   full description of each regions of the atlas, including the
   assignment to the seven canonical networks proposed by Yeo and
   colleagues (2011, DOI:
@@ -148,9 +148,9 @@ to facilitate the replication of results as detailed in the
   Version [2](https://www.gin.cnrs.fr/en/tools/aicha/) (June 2021, MNI
   space, resolution of 2mm) of the AICHA atlas was used in this study.
   For the atlas proposed by Yan and colleagues (2023), version
-  [0.28.3](https://github.com/ThomasYeoLab/CBIG/blob/e9ae5776742f9e04afaeb6156aaf0085007bea41/stable_projects/brain_parcellation/Yan2023_homotopic/parcellations/MNI/yeo7/1000Parcels_Yeo2011_7Networks_FSLMNI152_2mm.nii.gz),
-  featuring 1000 parcels within the MNI space at a resolution of 2mm,
-  was used.
+  [0.28.3](https://github.com/ThomasYeoLab/CBIG/blob/e9ae5776742f9e04afaeb6156aaf0085007bea41/stable_projects/brain_parcellation/Yan2023_homotopic/parcellations/MNI/yeo7/400Parcels_Yeo2011_7Networks_FSLMNI152_2mm.nii.gz),
+  featuring 400 parcels within the MNI space at a resolution of 2mm, was
+  used.
 - `4_SurfIce_Script_Generator.R`: `R` script to generate a `GLS` file
   for use with [Surf Ice](https://www.nitrc.org/projects/surfice/) to
   visualize brain atlases (ALANs or AICHA).
