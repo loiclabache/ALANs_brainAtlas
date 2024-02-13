@@ -1,6 +1,10 @@
 Atlas of Lateralized visuospatial Attentional Networks (ALANs)
 ================
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10655105.svg)](https://doi.org/10.5281/zenodo.10655105)
+
+------------------------------------------------------------------------
+
 In accordance with the
 [SENSAAS](https://github.com/loiclabache/SENSAAS_brainAtlas),
 [WMCA](https://github.com/loiclabache/WMCA_brainAtlas), and
