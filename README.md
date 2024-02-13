@@ -19,11 +19,12 @@ For usage of the ***manuscript***, please cite:
   Lateralized Visuospatial Attention Networks (ALANs): Insights from
   fMRI and Network Analyses. DOI: […](...)
 
-For usage of the associated ***code***, please also cite:
+For usage of the associated ***code***, ***data***, or
+***visualization***, please also cite:
 
-- **Labache, L.**, Petit, L., Joliot, & Zago, L. (2024). Atlas for the
-  Lateralized Visuospatial Attention Networks (ALANs): Insights from
-  fMRI and Network Analyses. DOI: […](https://zenodo.org/doi/...)
+- **Labache, L.**, (2024). loiclabache/ALANs_brainAtlas:
+  Labache_2024_ALANs_240214 (Labache_2024_ALANs_240214). Zenodo.DOI:
+  [10.5281/zenodo.10655105](https://doi.org/10.5281/zenodo.10655105)
 
 ------------------------------------------------------------------------
 
