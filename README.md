@@ -27,8 +27,9 @@ For usage of the ***manuscript***, please cite:
 For usage of the associated ***code***, ***data***, or
 ***visualization***, please also cite:
 
-- **Labache, L.**, (2024). loiclabache/ALANs_brainAtlas:
-  Labache_2024_ALANs_240214 (Labache_2024_ALANs_240214). Zenodo.DOI:
+- **Labache, L.**, (2024). loiclabache/ALANs_brainAtlas: Atlas for the
+  Lateralized Visuospatial Attention Networks (ALANs)
+  (Labache_2024_ALANs_240214). Zenodo.DOI:
   [10.5281/zenodo.10655105](https://doi.org/10.5281/zenodo.10655105)
 
 ------------------------------------------------------------------------
