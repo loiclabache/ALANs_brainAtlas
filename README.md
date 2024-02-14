@@ -21,7 +21,8 @@ For usage of the ***manuscript***, please cite:
 
 - **Labache, L.**, Petit, L., Joliot, & Zago, L. (2024). Atlas for the
   Lateralized Visuospatial Attention Networks (ALANs): Insights from
-  fMRI and Network Analyses. DOI: […](...)
+  fMRI and Network Analyses. DOI:
+  [10.1101/2024.02.13.580164](https://doi.org/10.1101/2024.02.13.580164)
 
 For usage of the associated ***code***, ***data***, or
 ***visualization***, please also cite:
