@@ -30,7 +30,7 @@ For usage of the associated ***code***, ***data***, or
 - **Labache, L.**, (2024). loiclabache/ALANs_brainAtlas: Atlas for the
   Lateralized Visuospatial Attention Networks (ALANs)
   (Labache_2024_ALANs_240214). Zenodo.DOI:
-  [10.5281/zenodo.10655105](https://doi.org/10.5281/zenodo.10655105)
+  [10.5281/zenodo.10658842](https://doi.org/10.5281/zenodo.10658842)
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ The `Data` folder contains 3 files and 2 sub-folders:
 
 ## Code release
 
-The `Script` folder includes 2 `R` scripts. The `R` scripts are designed
+The `Script` folder includes 4 `R` scripts. The `R` scripts are designed
 to facilitate the replication of results as detailed in the
 `Method Section` of the **manuscript**.
 
