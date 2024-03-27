@@ -1,96 +1,191 @@
-Network,Abbreviation,Region,Hemisphere,Index,Xmm,Ymm,Zmm,vol_vox
-VISU,CAL2,Calcarine Gyrus (2),Right,302,10,-78,9,413
-VISU,CAL3,Calcarine Gyrus (3),Right,304,11,-94,1,853
-VISU,FUS6,Fusiform Gyrus (6),Right,342,29,-62,-9,486
-VISU,FUS7,Fusiform Gyrus (7),Right,344,23,-80,-8,243
-VISU,LING2,Lingual Gyrus (2),Right,308,21,-60,-6,330
-VISU,LING4,Lingual Gyrus (4),Right,312,13,-72,-9,39
-VISU,LING6,Lingual Gyrus (6),Right,316,7,-79,-3,146
-VISU,O2_2,Middle Occipital Gyrus (2),Right,136,41,-73,12,376
-VISU,O3_2,Inferior Occipital Gyrus (2),Right,144,47,-65,-7,450
-VISU,Olat2,lateral occipital Gyrus (2),Right,122,28,-89,-2,674
-VISU,Olat4,lateral occipital Gyrus (4),Right,126,34,-85,9,472
-VISU,Olat5,lateral occipital Gyrus (5),Right,128,36,-76,2,1015
-SomatoMotor,cing4,Cingulate sulcus (4),Left,233,-8,-6,57,576
-SomatoMotor,cing5,Cingulate sulcus (5),Left,235,-8,-16,42,268
-SomatoMotor,cing7,Cingulate sulcus (7),Left,239,-9,-41,60,271
-SomatoMotor,INSp1,Posterior Insula Gyrus (1),Left,155,-42,-19,14,923
-SomatoMotor,P1_1,Superior Parietal Gyrus (1),Left,77,-24,-47,60,65
-SomatoMotor,P1_2,Superior Parietal Gyrus (2),Left,79,-19,-47,68,209
-SomatoMotor,P1_3,Superior Parietal Gyrus (3),Left,81,-30,-51,67,262
-SomatoMotor,P1_5,Superior Parietal Gyrus (5),Left,85,-16,-61,61,447
-SomatoMotor,pCENT1,Paracentral Lobule Gyrus (1),Left,257,-7,-17,51,237
-SomatoMotor,pCENT2,Paracentral Lobule Gyrus (2),Left,259,-10,-29,66,496
-SomatoMotor,post1,Postcentral sulcus (1),Left,71,-58,-18,32,194
-SomatoMotor,post2,Postcentral sulcus (2),Left,73,-41,-33,55,558
-SomatoMotor,post3,Postcentral sulcus (3),Left,75,-43,-33,44,587
-SomatoMotor,prec2,Precentral sulcus (2),Left,53,-25,-8,59,336
-SomatoMotor,prec3,Precentral sulcus (3),Left,55,-18,-9,69,74
-SomatoMotor,prec6,Precentral sulcus (6),Left,61,-30,-11,65,151
-SomatoMotor,rol1,Rolando sulcus (1),Left,63,-54,-8,32,1167
-SomatoMotor,rol2,Rolando sulcus (2),Left,65,-44,-14,51,416
-SomatoMotor,rol3,Rolando sulcus (3),Left,67,-39,-23,61,1136
-SomatoMotor,rol4,Rolando sulcus (4),Left,69,-23,-29,65,1110
-SomatoMotor,ROLop2,Rolandic Operculum Gyrus (2),Left,159,-51,-9,14,550
-SomatoMotor,SMG1,Supramarginal Gyrus (1),Left,87,-54,-30,21,279
-SomatoMotor,T1_1,Superior Temporal Gyrus (1),Left,161,-55,-1,2,105
-SomatoMotor,T1_2,Superior Temporal Gyrus (2),Left,163,-45,-11,-2,308
-SomatoMotor,T1_3,Superior Temporal Gyrus (3),Left,165,-52,-27,11,954
-PosteriorMedial,CINGp1,Posterior Cingulate Gyrus (1),Right,252,5,-26,29,195
-PosteriorMedial,FUS4,Fusiform Gyrus (4),Right,338,44,-46,-18,375
-PosteriorMedial,FUS5,Fusiform Gyrus (5),Right,340,32,-47,-11,150
-PosteriorMedial,HIPP2,Hippocampus Gyrus (2),Right,320,25,-31,-2,485
-PosteriorMedial,ios,intraoccipital sulcus (1),Right,116,28,-69,33,48
-PosteriorMedial,ips3,intraparietal sulcus (3),Right,114,26,-62,46,771
-PosteriorMedial,LING1,Lingual Gyrus (1),Right,306,20,-44,-4,173
-PosteriorMedial,O2_1,Middle Occipital Gyrus (1),Right,134,36,-74,25,516
-PosteriorMedial,O2_4,Middle Occipital Gyrus (4),Right,140,41,-74,30,498
-PosteriorMedial,pHIPP2,Parahippocampal Gyrus (2),Right,324,29,-25,-19,301
-PosteriorMedial,pHIPP4,Parahippocampal Gyrus (4),Right,328,17,-27,-10,321
-PosteriorMedial,pHIPP5,Parahippocampal Gyrus (5),Right,330,27,-36,-12,341
-PosteriorMedial,poleT2_3,Middle Temporal Pole Gyrus (3),Right,206,26,6,-36,993
-PosteriorMedial,pos1,parieto-occipital sulcus (1),Right,284,13,-54,8,435
-PosteriorMedial,pos2,parieto-occipital sulcus (2),Right,286,16,-61,26,158
-PosteriorMedial,pos3,parieto-occipital sulcus (3),Right,288,14,-73,37,256
-PosteriorMedial,pos5,parieto-occipital sulcus (5),Right,292,21,-66,20,52
-PosteriorMedial,PRECU1,Precuneus Gyrus (1),Right,266,13,-53,14,442
-PosteriorMedial,PRECU7,Precuneus Gyrus (7),Right,278,7,-63,36,151
-PosteriorMedial,PRECU8,Precuneus Gyrus (8),Right,280,11,-68,41,381
-PosteriorMedial,PRECU9,Precuneus Gyrus (9),Right,282,13,-68,50,310
-PosteriorMedial,T3_3,Inferior Temporal Gyrus (3),Right,192,57,-46,-14,597
-PosteriorMedial,T3_4,Inferior Temporal Gyrus (4),Right,194,54,-58,-11,226
-TemporoFrontal,cing1,Cingulate sulcus (1),Right,228,7,27,31,287
-TemporoFrontal,cing2,Cingulate sulcus (2),Right,230,8,13,47,364
-TemporoFrontal,CINGa2,Anterior Cingulate Gyrus (2),Right,244,7,33,23,340
-TemporoFrontal,F3O1,Inferior Frontal Gyrus: Pars Orbitalis Gyrus (1),Right,42,44,33,-14,264
-TemporoFrontal,F3t,Inferior Frontal Gyrus: Pars Triangularis Gyrus (1),Right,34,50,29,5,967
-TemporoFrontal,INSa2,Anterior Insula Gyrus (2),Right,148,35,18,-13,273
-TemporoFrontal,INSa3,Anterior Insula Gyrus (3),Right,150,37,24,0,721
-TemporoFrontal,INSa4,Anterior Insula Gyrus (4),Right,152,41,15,4,593
-TemporoFrontal,O2_3,Middle Occipital Gyrus (3),Right,138,45,-63,15,159
-TemporoFrontal,PALL,Pallidum (1),Left,361,-19,-8,-1,132
-TemporoFrontal,PUT3,Putamen (3),Left,365,-28,-6,2,704
-TemporoFrontal,SMA2,Supplementary Motor Area Gyrus (2),Right,224,11,18,63,218
-TemporoFrontal,SMA3,Supplementary Motor Area Gyrus (3),Right,226,6,10,66,275
-TemporoFrontal,STS3,superior temporal sulcus (3),Right,174,53,-32,0,641
-TemporoFrontal,STS4,superior temporal sulcus (4),Right,176,55,-46,15,840
-TemporoFrontal,T1_4,Superior Temporal Gyrus (4),Left,167,-59,-23,4,832
-TemporoFrontal,T2_3,Middle Temporal Gyrus (3),Right,184,62,-31,-5,241
-TemporoFrontal,T2_4,Middle Temporal Gyrus (4),Right,186,57,-53,3,269
-TemporoFrontal,T3_5,Inferior Temporal Gyrus (5),Right,196,49,-58,4,138
-TemporoFrontal,THA1,Thalamus (1),Left,367,-4,0,1,81
-ParietoFrontal,f1_2,Superior Frontal sulcus (2),Right,10,28,56,7,604
-ParietoFrontal,f2_1,Inferior Frontal sulcus (1),Right,30,46,40,10,281
-ParietoFrontal,f2_2,Inferior Frontal sulcus (2),Right,32,44,19,28,1138
-ParietoFrontal,F1M3,Medial Superior Frontal Gyrus (3),Right,212,6,33,45,376
-ParietoFrontal,F2_1,Middle Frontal Gyrus Gyrus (1),Right,20,41,44,13,516
-ParietoFrontal,F2_5,Middle Frontal Gyrus Gyrus (5),Right,28,42,17,41,527
-ParietoFrontal,F2O1,Middle Frontal Gyrus: Pars Orbitalis Gyrus (1),Right,38,36,57,-6,178
-ParietoFrontal,F2O2,Middle Frontal Gyrus: Pars Orbitalis Gyrus (2),Right,40,40,50,-4,370
-ParietoFrontal,ips2,intraparietal sulcus (2),Right,112,37,-52,48,719
-ParietoFrontal,orb1,Orbital sulcus (1),Right,46,26,41,-15,370
-ParietoFrontal,P2,Inferior Parietal Gyrus (1),Right,108,43,-53,48,410
-ParietoFrontal,prec1,Precentral sulcus (1),Right,52,50,10,24,337
-ParietoFrontal,prec4,Precentral sulcus (4),Right,58,44,1,48,540
-ParietoFrontal,SMA1,Supplementary Motor Area Gyrus (1),Right,222,6,21,49,172
-ParietoFrontal,SMG6,Supramarginal Gyrus (6),Right,98,54,-38,44,133
+Network,Abbreviation,Region,Atlas_Homotopic,Hemisphere,Index,Xmm,Ymm,Zmm,Number of Voxels,Volume mm3,HEXA
+ParietoFrontal,f1_2,superior frontal sulcus (2),Homotopic,Left,9,-27.22,55.62,1.36,783,6264,#fe4833
+ParietoFrontal,f1_2,superior frontal sulcus (2),Atlas,Right,10,28.24,56.41,7.22,604,4832,#fe4833
+ParietoFrontal,f2_1,inferior frontal sulcus (1),Homotopic,Left,29,-44.24,38.32,11.74,585,4680,#c9fe5f
+ParietoFrontal,f2_1,inferior frontal sulcus (1),Atlas,Right,30,46.38,39.59,9.88,281,2248,#c9fe5f
+ParietoFrontal,f2_2,inferior frontal sulcus (2),Homotopic,Left,31,-43.11,14.84,29.41,1116,8928,#c0d1ed
+ParietoFrontal,f2_2,inferior frontal sulcus (2),Atlas,Right,32,43.94,18.51,28.38,1138,9104,#c0d1ed
+ParietoFrontal,F1M3,Medial Superior Frontal Gyrus (3),Homotopic,Left,211,-5.33,34.67,43.62,332,2656,#c266e2
+ParietoFrontal,F1M3,Medial Superior Frontal Gyrus (3),Atlas,Right,212,5.55,33.21,44.87,376,3008,#c266e2
+ParietoFrontal,F2_1,Middle Frontal Gyrus (1),Homotopic,Left,19,-39.98,41.11,19.53,272,2176,#eaee7c
+ParietoFrontal,F2_1,Middle Frontal Gyrus (1),Atlas,Right,20,41.31,44.34,13.44,516,4128,#eaee7c
+ParietoFrontal,F2_5,Middle Frontal Gyrus (5),Homotopic,Left,27,-43.24,19.84,37.07,245,1960,#709d70
+ParietoFrontal,F2_5,Middle Frontal Gyrus (5),Atlas,Right,28,41.86,17.31,41.44,527,4216,#709d70
+ParietoFrontal,F2O1,Middle Orbito-Frontal Gyrus (1),Homotopic,Left,37,-35.01,56.82,-7.71,105,840,#d9d192
+ParietoFrontal,F2O1,Middle Orbito-Frontal Gyrus (1),Atlas,Right,38,36.48,56.7,-6.21,178,1424,#d9d192
+ParietoFrontal,F2O2,Middle Orbito-Frontal Gyrus (2),Homotopic,Left,39,-41.05,48.99,-5.31,505,4040,#f37c8f
+ParietoFrontal,F2O2,Middle Orbito-Frontal Gyrus (2),Atlas,Right,40,39.72,50.22,-4.43,370,2960,#f37c8f
+ParietoFrontal,ips2,intraparietal sulcus (2),Homotopic,Left,111,-34.12,-58.3,46.21,832,6656,#8bd2dc
+ParietoFrontal,ips2,intraparietal sulcus (2),Atlas,Right,112,37.42,-52.4,48.36,719,5752,#8bd2dc
+ParietoFrontal,orb1,orbital sulcus (1),Homotopic,Left,45,-24.97,38.57,-14.99,278,2224,#8e4c90
+ParietoFrontal,orb1,orbital sulcus (1),Atlas,Right,46,25.82,41.49,-14.91,370,2960,#8e4c90
+ParietoFrontal,P2,Inferior Parietal Gyrus,Homotopic,Left,107,-44.91,-52.61,49.77,211,1688,#5a687e
+ParietoFrontal,P2,Inferior Parietal Gyrus,Atlas,Right,108,42.73,-53.13,47.59,410,3280,#5a687e
+ParietoFrontal,prec1,precentral sulcus (1),Homotopic,Left,51,-49.74,6.14,25.67,250,2000,#83c60b
+ParietoFrontal,prec1,precentral sulcus (1),Atlas,Right,52,50.21,9.65,24.23,337,2696,#83c60b
+ParietoFrontal,prec4,precentral sulcus (4),Homotopic,Left,57,-42.18,0.72,49.91,766,6128,#cb1b85
+ParietoFrontal,prec4,precentral sulcus (4),Atlas,Right,58,43.66,1,48.36,540,4320,#cb1b85
+ParietoFrontal,SMA1,Supplementary Motor Area (1),Homotopic,Left,221,-6.27,22.25,46.72,161,1288,#7bf59c
+ParietoFrontal,SMA1,Supplementary Motor Area (1),Atlas,Right,222,5.86,20.55,49,172,1376,#7bf59c
+ParietoFrontal,SMG6,SupraMarginal Gyrus (6),Homotopic,Left,97,-53.63,-42.1,46.05,120,960,#8d5487
+ParietoFrontal,SMG6,SupraMarginal Gyrus (6),Atlas,Right,98,53.77,-38.15,43.95,133,1064,#8d5487
+PosteriorMedial,CINGp1,Posterior Cingulum Gyrus (1),Homotopic,Left,251,-4.2,-26.02,28.82,166,1328,#e82a84
+PosteriorMedial,CINGp1,Posterior Cingulum Gyrus (1),Atlas,Right,252,4.73,-25.9,28.96,195,1560,#e82a84
+PosteriorMedial,FUS4,Fusiform Gyrus (4),Homotopic,Left,337,-43.13,-49.79,-17.41,458,3664,#b48d92
+PosteriorMedial,FUS4,Fusiform Gyrus (4),Atlas,Right,338,44.13,-46.04,-17.75,375,3000,#b48d92
+PosteriorMedial,FUS5,Fusiform Gyrus (5),Homotopic,Left,339,-31.48,-50.4,-12.44,96,768,#8b7056
+PosteriorMedial,FUS5,Fusiform Gyrus (5),Atlas,Right,340,32.39,-46.73,-11.32,150,1200,#8b7056
+PosteriorMedial,HIPP2,Hippocampus (2),Homotopic,Left,319,-24.94,-32.46,-2.69,437,3496,#f5277c
+PosteriorMedial,HIPP2,Hippocampus (2),Atlas,Right,320,25.01,-31.37,-1.99,485,3880,#f5277c
+PosteriorMedial,ios,intraoccipital sulcus,Homotopic,Left,115,-23.92,-71.72,32.44,50,400,#53d40c
+PosteriorMedial,ios,intraoccipital sulcus,Atlas,Right,116,27.83,-69.38,33.29,48,384,#53d40c
+PosteriorMedial,ips3,intraparietal sulcus (3),Homotopic,Left,113,-26.94,-59.8,44.38,761,6088,#356ff4
+PosteriorMedial,ips3,intraparietal sulcus (3),Atlas,Right,114,26.41,-61.67,46.28,771,6168,#356ff4
+PosteriorMedial,LING1,Lingual Gyrus (1),Homotopic,Left,305,-20.21,-45.32,-4.62,162,1296,#f38439
+PosteriorMedial,LING1,Lingual Gyrus (1),Atlas,Right,306,19.64,-43.94,-3.9,173,1384,#f38439
+PosteriorMedial,O2_1,Middle Occipital Gyrus (1),Homotopic,Left,133,-31.65,-78.1,25.26,509,4072,#adeb61
+PosteriorMedial,O2_1,Middle Occipital Gyrus (1),Atlas,Right,134,36.16,-74.47,25.32,516,4128,#adeb61
+PosteriorMedial,O2_4,Middle Occipital Gyrus (4),Homotopic,Left,139,-36.15,-80.02,30.28,363,2904,#8a56bd
+PosteriorMedial,O2_4,Middle Occipital Gyrus (4),Atlas,Right,140,40.92,-73.87,29.65,498,3984,#8a56bd
+PosteriorMedial,pHIPP2,ParaHippocampal Gyrus (2),Homotopic,Left,323,-27.64,-26.64,-18.75,329,2632,#618ad8
+PosteriorMedial,pHIPP2,ParaHippocampal Gyrus (2),Atlas,Right,324,28.61,-24.74,-18.63,301,2408,#618ad8
+PosteriorMedial,pHIPP4,ParaHippocampal Gyrus (4),Homotopic,Left,327,-17.16,-27.37,-12.81,259,2072,#98c32f
+PosteriorMedial,pHIPP4,ParaHippocampal Gyrus (4),Atlas,Right,328,16.69,-27.39,-10.05,321,2568,#98c32f
+PosteriorMedial,pHIPP5,ParaHippocampal Gyrus (5),Homotopic,Left,329,-27.07,-39.59,-10.86,387,3096,#5253e9
+PosteriorMedial,pHIPP5,ParaHippocampal Gyrus (5),Atlas,Right,330,27.17,-35.99,-11.93,341,2728,#5253e9
+PosteriorMedial,poleT2_3,Middle Temporal Pole Gyrus (3),Homotopic,Left,205,-25.7,5.92,-37.41,880,7040,#ddaa6b
+PosteriorMedial,poleT2_3,Middle Temporal Pole Gyrus (3),Atlas,Right,206,26.39,6.49,-35.94,993,7944,#ddaa6b
+PosteriorMedial,pos1,parietooccipital sulcus (1),Homotopic,Left,283,-12.02,-55.73,7.56,469,3752,#9496be
+PosteriorMedial,pos1,parietooccipital sulcus (1),Atlas,Right,284,13.11,-54.1,8.5,435,3480,#9496be
+PosteriorMedial,pos2,parietooccipital sulcus (2),Homotopic,Left,285,-13.42,-65.08,25.68,130,1040,#5a499f
+PosteriorMedial,pos2,parietooccipital sulcus (2),Atlas,Right,286,15.89,-61.43,26.16,158,1264,#5a499f
+PosteriorMedial,pos3,parietooccipital sulcus (3),Homotopic,Left,287,-10.49,-75.19,36.86,244,1952,#fd1da2
+PosteriorMedial,pos3,parietooccipital sulcus (3),Atlas,Right,288,14.05,-72.93,37.4,256,2048,#fd1da2
+PosteriorMedial,pos5,parietooccipital sulcus (5),Homotopic,Left,291,-17.76,-70,19.59,34,272,#a9e672
+PosteriorMedial,pos5,parietooccipital sulcus (5),Atlas,Right,292,20.88,-65.58,20.04,52,416,#a9e672
+PosteriorMedial,PRECU1,Precuneus (1),Homotopic,Left,265,-11.8,-55.27,13.43,427,3416,#c936d0
+PosteriorMedial,PRECU1,Precuneus (1),Atlas,Right,266,12.78,-52.8,13.8,442,3536,#c936d0
+PosteriorMedial,PRECU7,Precuneus (7),Homotopic,Left,277,-5.86,-64.69,35.68,168,1344,#de4dcc
+PosteriorMedial,PRECU7,Precuneus (7),Atlas,Right,278,7.17,-62.58,36,151,1208,#de4dcc
+PosteriorMedial,PRECU8,Precuneus (8),Homotopic,Left,279,-6.83,-70.82,41.15,369,2952,#97d740
+PosteriorMedial,PRECU8,Precuneus (8),Atlas,Right,280,10.52,-68.47,41.07,381,3048,#97d740
+PosteriorMedial,PRECU9,Precuneus (9),Homotopic,Left,281,-10.68,-69.54,49.26,231,1848,#e9da5d
+PosteriorMedial,PRECU9,Precuneus (9),Atlas,Right,282,12.71,-68.38,50.3,310,2480,#e9da5d
+PosteriorMedial,T3_3,Inferior Temporal Gyrus (3),Homotopic,Left,191,-56.44,-52.94,-13.71,654,5232,#7b9dea
+PosteriorMedial,T3_3,Inferior Temporal Gyrus (3),Atlas,Right,192,57.39,-46.33,-13.87,597,4776,#7b9dea
+PosteriorMedial,T3_4,Inferior Temporal Gyrus (4),Homotopic,Left,193,-50.02,-60.63,-7.64,410,3280,#b8ab9b
+PosteriorMedial,T3_4,Inferior Temporal Gyrus (4),Atlas,Right,194,54.06,-57.86,-10.55,226,1808,#b8ab9b
+SomatoMotor,cing4,cingulate sulcus (4),Atlas,Left,233,-7.83,-6.34,57.43,576,4608,#4c6dad
+SomatoMotor,cing4,cingulate sulcus (4),Homotopic,Right,234,8.24,-4.67,57.88,538,4304,#4c6dad
+SomatoMotor,cing5,cingulate sulcus (5),Atlas,Left,235,-8.46,-16.4,41.65,268,2144,#50965c
+SomatoMotor,cing5,cingulate sulcus (5),Homotopic,Right,236,8.87,-15.98,41.93,268,2144,#50965c
+SomatoMotor,cing7,cingulate sulcus (7),Atlas,Left,239,-9.29,-41.48,60.42,271,2168,#15ba9a
+SomatoMotor,cing7,cingulate sulcus (7),Homotopic,Right,240,9.39,-40.68,61.09,298,2384,#15ba9a
+SomatoMotor,INSp,Posterior Insula,Atlas,Left,155,-42.08,-19.1,13.71,923,7384,#bb683d
+SomatoMotor,INSp,Posterior Insula,Homotopic,Right,156,40.61,-19.46,14.31,858,6864,#bb683d
+SomatoMotor,P1_1,Superior Parietal Gyrus (1),Atlas,Left,77,-23.63,-47.32,60.09,65,520,#8147fe
+SomatoMotor,P1_1,Superior Parietal Gyrus (1),Homotopic,Right,78,23.5,-46.83,62.89,121,968,#8147fe
+SomatoMotor,P1_2,Superior Parietal Gyrus (2),Atlas,Left,79,-18.6,-46.92,67.53,209,1672,#f3d36b
+SomatoMotor,P1_2,Superior Parietal Gyrus (2),Homotopic,Right,80,19.9,-44.91,67.12,232,1856,#f3d36b
+SomatoMotor,P1_3,Superior Parietal Gyrus (3),Atlas,Left,81,-29.6,-51.22,66.56,262,2096,#09ffca
+SomatoMotor,P1_3,Superior Parietal Gyrus (3),Homotopic,Right,82,28.97,-48.93,67.51,148,1184,#09ffca
+SomatoMotor,P1_5,Superior Parietal Gyrus (5),Atlas,Left,85,-16.02,-61.32,61.46,447,3576,#c0912e
+SomatoMotor,P1_5,Superior Parietal Gyrus (5),Homotopic,Right,86,15.16,-57.86,62.38,292,2336,#c0912e
+SomatoMotor,pCENT1,Paracentral Lobule (1),Atlas,Left,257,-6.89,-16.76,50.9,237,1896,#f2e6d5
+SomatoMotor,pCENT1,Paracentral Lobule (1),Homotopic,Right,258,7.68,-14.74,50.06,312,2496,#f2e6d5
+SomatoMotor,pCENT2,Paracentral Lobule (2),Atlas,Left,259,-10.15,-28.61,65.77,496,3968,#37fa8d
+SomatoMotor,pCENT2,Paracentral Lobule (2),Homotopic,Right,260,10.9,-26.74,66.43,568,4544,#37fa8d
+SomatoMotor,post1,postcentral sulcus (1),Atlas,Left,71,-57.52,-17.78,31.75,194,1552,#9ee1d3
+SomatoMotor,post1,postcentral sulcus (1),Homotopic,Right,72,58.27,-15,32.29,234,1872,#9ee1d3
+SomatoMotor,post2,postcentral sulcus (2),Atlas,Left,73,-40.8,-33.45,54.73,558,4464,#af6760
+SomatoMotor,post2,postcentral sulcus (2),Homotopic,Right,74,40.89,-29.91,52.31,756,6048,#af6760
+SomatoMotor,post3,postcentral sulcus (3),Atlas,Left,75,-43.01,-32.84,44.1,587,4696,#01f465
+SomatoMotor,post3,postcentral sulcus (3),Homotopic,Right,76,47.97,-25.97,42.54,145,1160,#01f465
+SomatoMotor,prec2,precentral sulcus (2),Atlas,Left,53,-25.24,-8.47,58.87,336,2688,#c2aa0e
+SomatoMotor,prec2,precentral sulcus (2),Homotopic,Right,54,26.06,-7.72,58.05,309,2472,#c2aa0e
+SomatoMotor,prec3,precentral sulcus (3),Atlas,Left,55,-18.19,-8.7,69.3,74,592,#614ed1
+SomatoMotor,prec3,precentral sulcus (3),Homotopic,Right,56,19.75,-6.35,67.7,40,320,#614ed1
+SomatoMotor,prec6,precentral sulcus (6),Atlas,Left,61,-29.77,-11.18,64.68,151,1208,#339470
+SomatoMotor,prec6,precentral sulcus (6),Homotopic,Right,62,30.91,-9.8,64.17,119,952,#339470
+SomatoMotor,rol1,Rolandic fissure (1),Atlas,Left,63,-54.26,-8.37,31.99,1167,9336,#55ba29
+SomatoMotor,rol1,Rolandic fissure (1),Homotopic,Right,64,55.4,-5.2,31.14,1101,8808,#55ba29
+SomatoMotor,rol2,Rolandic fissure (2),Atlas,Left,65,-43.58,-13.72,50.62,416,3328,#baf38f
+SomatoMotor,rol2,Rolandic fissure (2),Homotopic,Right,66,44.72,-10.92,48.62,338,2704,#baf38f
+SomatoMotor,rol3,Rolandic fissure (3),Atlas,Left,67,-38.76,-23.13,61.44,1136,9088,#32e9f4
+SomatoMotor,rol3,Rolandic fissure (3),Homotopic,Right,68,36.83,-20.18,60.01,1148,9184,#32e9f4
+SomatoMotor,rol4,Rolandic fissure (4),Atlas,Left,69,-23.14,-28.85,65.34,1110,8880,#45fc65
+SomatoMotor,rol4,Rolandic fissure (4),Homotopic,Right,70,22.07,-27.33,65.41,733,5864,#45fc65
+SomatoMotor,ROLop2,Rolandic Operculum (2),Atlas,Left,159,-50.59,-8.96,13.91,550,4400,#7d38f9
+SomatoMotor,ROLop2,Rolandic Operculum (2),Homotopic,Right,160,49.74,-6.32,13.89,616,4928,#7d38f9
+SomatoMotor,SMG1,Supramarginal Gyrus (1),Atlas,Left,87,-54.47,-29.51,21.37,279,2232,#845892
+SomatoMotor,SMG1,Supramarginal Gyrus (1),Homotopic,Right,88,54.51,-26.41,22.05,367,2936,#845892
+SomatoMotor,T1_1,Superior Temporal Gyrus (1),Atlas,Left,161,-55.47,-1.12,2.3,105,840,#b5a4ec
+SomatoMotor,T1_1,Superior Temporal Gyrus (1),Homotopic,Right,162,55.71,2.1,2.53,136,1088,#b5a4ec
+SomatoMotor,T1_2,Superior Temporal Gyrus (2),Atlas,Left,163,-45.26,-10.94,-1.62,308,2464,#39e5ef
+SomatoMotor,T1_2,Superior Temporal Gyrus (2),Homotopic,Right,164,46.53,-7.2,-1.59,307,2456,#39e5ef
+SomatoMotor,T1_3,Superior Temporal Gyrus (3),Atlas,Left,165,-52,-27.13,10.92,954,7632,#0e71d8
+SomatoMotor,T1_3,Superior Temporal Gyrus (3),Homotopic,Right,166,57.27,-19.18,8.83,825,6600,#0e71d8
+TemporoFrontal,cing1,cingulate sulcus (1),Homotopic,Left,227,-6.91,27.03,29.99,304,2432,#24cccd
+TemporoFrontal,cing1,cingulate sulcus (1),Atlas,Right,228,6.95,26.55,30.97,287,2296,#24cccd
+TemporoFrontal,cing2,cingulate sulcus (2),Homotopic,Left,229,-6.79,15.54,41.57,290,2320,#f9b5e8
+TemporoFrontal,cing2,cingulate sulcus (2),Atlas,Right,230,7.55,13.47,47.27,364,2912,#f9b5e8
+TemporoFrontal,CINGa2,Anterior Cingulum Gyrus (2),Homotopic,Left,243,-7.32,34.32,22.06,339,2712,#65edf6
+TemporoFrontal,CINGa2,Anterior Cingulum Gyrus (2),Atlas,Right,244,7.29,33.37,22.84,340,2720,#65edf6
+TemporoFrontal,F3O1,Inferior Frontal Gyrus : Pars Orbitalis (1),Homotopic,Left,41,-42.18,30.53,-16.87,180,1440,#c6138c
+TemporoFrontal,F3O1,Inferior Frontal Gyrus : Pars Orbitalis (1),Atlas,Right,42,44.22,33.02,-14.43,264,2112,#c6138c
+TemporoFrontal,F3t,Inferior Frontal Gyrus : Pars Triangularis,Homotopic,Left,33,-49.44,25.56,4.68,1289,10312,#fc44d8
+TemporoFrontal,F3t,Inferior Frontal Gyrus : Pars Triangularis,Atlas,Right,34,49.83,28.54,5.02,967,7736,#fc44d8
+TemporoFrontal,INSa2,Anterior Insula (2),Homotopic,Left,147,-33.79,16.79,-12.74,399,3192,#d9bcef
+TemporoFrontal,INSa2,Anterior Insula (2),Atlas,Right,148,34.7,18.47,-12.73,273,2184,#d9bcef
+TemporoFrontal,INSa3,Anterior Insula (3),Homotopic,Left,149,-33.74,23.68,0.58,469,3752,#dd5b67
+TemporoFrontal,INSa3,Anterior Insula (3),Atlas,Right,150,36.8,24.21,-0.33,721,5768,#dd5b67
+TemporoFrontal,INSa4,Anterior Insula (4),Homotopic,Left,151,-40.75,15.15,2.63,734,5872,#b0fc0b
+TemporoFrontal,INSa4,Anterior Insula (4),Atlas,Right,152,40.81,14.51,4.09,593,4744,#b0fc0b
+TemporoFrontal,O2_3,Middle Occipital Gyrus (3),Homotopic,Left,137,-41.73,-71.49,17.95,202,1616,#2cd2f2
+TemporoFrontal,O2_3,Middle Occipital Gyrus (3),Atlas,Right,138,45.07,-63.14,15.12,159,1272,#2cd2f2
+TemporoFrontal,PALL,Pallidum,Atlas,Left,361,-18.64,-8.15,-0.52,132,1056,#f13e97
+TemporoFrontal,PALL,Pallidum,Homotopic,Right,362,18.96,-6.92,-0.59,85,680,#f13e97
+TemporoFrontal,PUT3,Putamen (3),Atlas,Left,365,-28.01,-6.26,1.77,704,5632,#76a6a2
+TemporoFrontal,PUT3,Putamen (3),Homotopic,Right,366,28.53,-4.1,0.86,745,5960,#76a6a2
+TemporoFrontal,SMA2,Supplementary Motor Area (2),Homotopic,Left,223,-10.56,18.18,63.12,268,2144,#a03a7a
+TemporoFrontal,SMA2,Supplementary Motor Area (2),Atlas,Right,224,10.54,18.48,62.88,218,1744,#a03a7a
+TemporoFrontal,SMA3,Supplementary Motor Area (3),Homotopic,Left,225,-7.21,7.64,65.58,527,4216,#bd33e8
+TemporoFrontal,SMA3,Supplementary Motor Area (3),Atlas,Right,226,6.39,10.05,66.47,275,2200,#bd33e8
+TemporoFrontal,STS3,superior temporal sulcus (3),Homotopic,Left,173,-54.68,-33.01,-1.67,629,5032,#af6651
+TemporoFrontal,STS3,superior temporal sulcus (3),Atlas,Right,174,53.05,-31.88,-0.27,641,5128,#af6651
+TemporoFrontal,STS4,superior temporal sulcus (4),Homotopic,Left,175,-56.55,-48.37,13.36,642,5136,#2cc251
+TemporoFrontal,STS4,superior temporal sulcus (4),Atlas,Right,176,54.61,-45.53,14.61,840,6720,#2cc251
+TemporoFrontal,T1_4,Superior Temporal Gyrus (4),Atlas,Left,167,-58.75,-23.25,3.73,832,6656,#ea8910
+TemporoFrontal,T1_4,Superior Temporal Gyrus (4),Homotopic,Right,168,60.05,-19.98,2.2,729,5832,#ea8910
+TemporoFrontal,T2_3,Middle Temporal Gyrus (3),Homotopic,Left,183,-60.97,-35.03,-4.8,266,2128,#7ee1f9
+TemporoFrontal,T2_3,Middle Temporal Gyrus (3),Atlas,Right,184,62.34,-30.88,-4.71,241,1928,#7ee1f9
+TemporoFrontal,T2_4,Middle Temporal Gyrus (4),Homotopic,Left,185,-53.09,-59.39,7.03,496,3968,#bc5bca
+TemporoFrontal,T2_4,Middle Temporal Gyrus (4),Atlas,Right,186,56.8,-53.22,2.97,269,2152,#bc5bca
+TemporoFrontal,T3_5,Inferior Temporal Gyrus (5),Homotopic,Left,195,-45.09,-63.82,5.5,136,1088,#4968d5
+TemporoFrontal,T3_5,Inferior Temporal Gyrus (5),Atlas,Right,196,49.22,-58.33,3.81,138,1104,#4968d5
+TemporoFrontal,THA1,Thalamus (1),Atlas,Left,367,-4.27,0.27,1.43,81,648,#49fc2a
+TemporoFrontal,THA1,Thalamus (1),Homotopic,Right,368,3.61,0.39,1.4,67,536,#49fc2a
+VISU,CAL2,Calcarine Gyrus (2),Homotopic,Left,301,-7.3,-80.67,8.59,445,3560,#cf99e3
+VISU,CAL2,Calcarine Gyrus (2),Atlas,Right,302,9.52,-77.78,9.37,413,3304,#cf99e3
+VISU,CAL3,Calcarine Gyrus (3),Homotopic,Left,303,-6.68,-95.35,-1.33,926,7408,#42b47d
+VISU,CAL3,Calcarine Gyrus (3),Atlas,Right,304,10.82,-94.22,1.1,853,6824,#42b47d
+VISU,FUS6,Fusiform Gyrus (6),Homotopic,Left,341,-28.15,-65.99,-9.52,443,3544,#9e7dba
+VISU,FUS6,Fusiform Gyrus (6),Atlas,Right,342,29.01,-61.67,-9.48,486,3888,#9e7dba
+VISU,FUS7,Fusiform Gyrus (7),Homotopic,Left,343,-23.09,-84.02,-10.33,266,2128,#b7366c
+VISU,FUS7,Fusiform Gyrus (7),Atlas,Right,344,22.89,-80.45,-8.35,243,1944,#b7366c
+VISU,LING2,Lingual Gyrus (2),Homotopic,Left,307,-21.1,-62.46,-6.81,283,2264,#aa94e2
+VISU,LING2,Lingual Gyrus (2),Atlas,Right,308,20.99,-60.23,-6.01,330,2640,#aa94e2
+VISU,LING4,Lingual Gyrus (4),Homotopic,Left,311,-14.11,-75.68,-10.11,38,304,#a50f86
+VISU,LING4,Lingual Gyrus (4),Atlas,Right,312,13.03,-72.41,-9.33,39,312,#a50f86
+VISU,LING6,Lingual Gyrus (6),Homotopic,Left,315,-6.26,-80.41,-4.65,161,1288,#78589b
+VISU,LING6,Lingual Gyrus (6),Atlas,Right,316,6.66,-78.86,-3.36,146,1168,#78589b
+VISU,O2_2,Middle Occipital Gyrus (2),Homotopic,Left,135,-36.97,-77.4,14.36,225,1800,#5fde98
+VISU,O2_2,Middle Occipital Gyrus (2),Atlas,Right,136,41.11,-72.91,12.18,376,3008,#5fde98
+VISU,O3_2,Inferior Occipital Gyrus (2),Homotopic,Left,143,-44.53,-70.72,-6.68,382,3056,#1bbfb6
+VISU,O3_2,Inferior Occipital Gyrus (2),Atlas,Right,144,47.06,-64.73,-7.45,450,3600,#1bbfb6
+VISU,Olat2,Lateral Occipital Gyrus (2),Homotopic,Left,121,-26.36,-93.63,-0.71,576,4608,#6f9dcc
+VISU,Olat2,Lateral Occipital Gyrus (2),Atlas,Right,122,28.07,-89.12,-2.06,674,5392,#6f9dcc
+VISU,Olat4,Lateral Occipital Gyrus (4),Homotopic,Left,125,-30.78,-88.66,8.42,485,3880,#97b08a
+VISU,Olat4,Lateral Occipital Gyrus (4),Atlas,Right,126,33.62,-85.39,8.81,472,3776,#97b08a
+VISU,Olat5,Lateral Occipital Gyrus (5),Homotopic,Left,127,-35.33,-78.75,-0.62,974,7792,#a369aa
+VISU,Olat5,Lateral Occipital Gyrus (5),Atlas,Right,128,35.61,-75.57,1.65,1015,8120,#a369aa

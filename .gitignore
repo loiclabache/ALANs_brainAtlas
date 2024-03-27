@@ -43,4 +43,5 @@ vignettes/*.pdf
 # Ignore folder
 Script_GIF/
 Atlas/*.R
+Script/5_Axial_View_Script.R
 .DS_Store

@@ -89,10 +89,17 @@ The `Atlas` folder contains 4 files:
   each regions. The first column *Network* corresponds to which of the 5
   networks a region belongs. The second column *Abbreviation* is the
   abbreviation of a region. The third column *Region* is the full
-  anatomical label of a region. *Hemisphere* refers to the cerebral
-  hemisphere to which a region belongs. *Index* is the index of each
-  region that is used in the NIfTI file. Finaly, the MNI coordinate
-  (columns *Xmm*, *Ymm*, *Zmm*) of each regions centroid is provided.
+  anatomical label of a region. *Atlas_Homotopic* indicates if a region
+  belongs to the original atlas (showed as *“Atlas”*, one of the 95
+  regions selected in the paper) or if it is its counterpart in the
+  opposite hemisphere (showed as *“Homotopic”*). *Hemisphere* refers to
+  the cerebral hemisphere to which a region belongs. *Index* is the
+  index of each region that is used in the NIfTI file. The MNI
+  coordinate (columns *Xmm*, *Ymm*, *Zmm*) of each regions centroid is
+  also provided. *Number of Voxels* and *Volume mm3* are the number of
+  voxels and the volume (in cubic millimetre) of each region for the 2mm
+  version of the atlas. *HEXA* is the color of each region according to
+  the [AICHA](https://doi.org/10.1016/j.jneumeth.2015.07.013) atlas.
 
 - `template_ANTs_80tvs_on_MNI.nii.gz`: brain template used to align the
   atlas on, provided in MNI stereotaxic space (MNI ICBM 152, Template
@@ -161,6 +168,7 @@ to facilitate the replication of results as detailed in the
 - `4_SurfIce_Script_Generator.R`: `R` script to generate a `GLS` file
   for use with [Surf Ice](https://www.nitrc.org/projects/surfice/) to
   visualize brain atlases (ALANs or AICHA).
+  <!-- -   `5_Axial_View_Script.R`: `R` script to visualize axial slices of ALANs (as seen in Figure 1 of the paper). -->
 
 ------------------------------------------------------------------------
 
