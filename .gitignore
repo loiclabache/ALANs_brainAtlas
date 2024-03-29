@@ -43,5 +43,6 @@ vignettes/*.pdf
 # Ignore folder
 Script_GIF/
 Atlas/*.R
-Script/5_*
+Data/compute_average*
+Script/5_A*
 .DS_Store

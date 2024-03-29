@@ -115,6 +115,9 @@ The `Data` folder contains 3 files and 2 sub-folders:
 - `130_participants_BOLD_rs_BILGIN.Rds`: resting-state connectivity
   matrices of the 95 ALANs regions for each participant.
 
+- `130_participants_BOLD_rs_networks_BILGIN.csv`: intrinsic correlation
+  of the 5 ALANs networks for each participant.
+
 - `comparison_AICHA_Yan2023_400_2mm.csv`: assignment of each region of
   the [AICHA](https://doi.org/10.1016/j.jneumeth.2015.07.013) atlas to
   one of the seven canonical networks proposed by Yan and colleagues
@@ -168,6 +171,8 @@ to facilitate the replication of results as detailed in the
 - `4_SurfIce_Script_Generator.R`: `R` script to generate a `GLS` file
   for use with [Surf Ice](https://www.nitrc.org/projects/surfice/) to
   visualize brain atlases (ALANs or AICHA).
+- `5_Temporal_Correlation_Networks.R`: `R` script to compute average
+  correlations between ALAN networks and test their significance.
   <!-- -   `5_Axial_View_Script.R`: `R` script to visualize axial slices of ALANs (as seen in Figure 1 of the paper). -->
 
 ------------------------------------------------------------------------
