@@ -6,7 +6,8 @@
 
 # Packages......................................................................
 #...............................................................................
-packages <- c("here", "psych", "progress")
+packages <- c("here", "psych", "progress", "circlize", "ggplot2",
+              "ComplexHeatmap")
 lapply(packages, require, character.only = T)
 
 # Load Data.....................................................................
@@ -41,3 +42,36 @@ res_cor$p_value = ifelse(res_cor$correlation >= 0,
                          sign_tests_results_pos,
                          sign_tests_results_neg)
 res_cor
+
+# Visualization Average Correlation.............................................
+#...............................................................................
+df_visu = data.frame(from = sapply(strsplit(rownames(res_cor), "_"), `[`, 1), 
+                     to = sapply(strsplit(rownames(res_cor), "_"), `[`, 2), 
+                     value = res_cor$correlation, 
+                     p_value = ifelse(res_cor$p_value <= 0.005, 
+                                      "significant", "unsignificant"))
+network_order = c("PosteriorMedial", "TemporoFrontal", "ParietoFrontal", 
+                  "Visu", "SomatoMotor")
+chordDiagram(df_visu,
+             symmetric = F,
+             group = structure(c(1, 2, 3, 4, 5),
+                               names = network_order),
+             annotationTrack = c("grid", "name"),
+             grid.col = structure(c("#fe7340","#e6e01e","#fd1da2","#32bff9", 
+                                    "#2fef0e"), names = network_order), 
+             transparency = 0,
+             order = network_order,
+             link.visible = df_visu$p_value == "significant",
+             col = colorRamp2(c(min(df_visu$value), 0, max(df_visu$value)),
+                              c("blue", "lightgray", "red")))
+circos.clear()
+lgd_r = Legend(at = c(min(df_visu$value), 0, max(df_visu$value)),
+               col_fun = colorRamp2(c(min(df_visu$value), 0, max(df_visu$value)),
+                                    c("blue", "lightgray", "red")),
+               title_position = "topleft",
+               title = "R")
+lgd_list_vertical = packLegend(lgd_r)
+draw(lgd_list_vertical, 
+     x = unit(8, "mm"), 
+     y = unit(8, "mm"), 
+     just = c("left", "bottom"))
