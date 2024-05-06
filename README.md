@@ -51,11 +51,11 @@ attention**, ALANs. Combining task and resting-state functional
 connectivity analyses, we identified **95 lateralized brain areas**
 comprising **five networks** supporting visuospatial attention
 processes. Among them, we can find two large-scale networks: the
-ParietoFrontal and TemporoFrontal networks. We identify hubs playing a
+Parieto-frontal and Temporo-frontal networks. We identify hubs playing a
 pivotal role in the intra-hemispheric interaction within visuospatial
-attentional networks. The rightward lateralized ParietoFrontal
+attentional networks. The rightward lateralized Parieto-frontal
 encompasses one hub, the inferior frontal sulcus, while the
-TemporoFrontal network encompasses two right hubs: the inferior frontal
+Temporo-frontal network encompasses two right hubs: the inferior frontal
 cortex (pars triangularis and the anterior insula) and the posterior
 part of the superior temporal sulcus. Together, these networks encompass
 the **homotope** of the language network from the left hemisphere. This
@@ -82,7 +82,7 @@ The `Atlas` folder contains 4 files:
   regions in the MNI space.
 
 <p align="center">
-<img src="Image/ALANs_networks.png" width="55%" height="55%" />
+<img src="Image/ALANs_networks.png" width="75%" height="75%" />
 </p>
 
 - `ALANs_description.txt`: text file containing a full description of
