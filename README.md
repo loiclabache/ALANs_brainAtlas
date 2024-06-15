@@ -9,9 +9,11 @@ In accordance with the
 [SENSAAS](https://github.com/loiclabache/SENSAAS_brainAtlas),
 [WMCA](https://github.com/loiclabache/WMCA_brainAtlas), and
 [HAMOTA](https://github.com/loiclabache/HAMOTA_brainAtlas) atlases, this
-repository introduces the **ALANs** atlas, which encompasses 95
-specifically selected regions underpinning the **anatomical and
-functional bases of visuo-spatial** attention in humans.
+repository introduces the
+[**ALANs**](https://doi.org/10.1162/imag_a_00208) atlas, which
+encompasses 95 specifically selected regions underpinning the
+**anatomical and functional bases of visuo-spatial** attention in
+humans.
 
 ------------------------------------------------------------------------
 
@@ -22,7 +24,7 @@ For usage of the ***manuscript***, please cite:
 - **Labache, L.**, Petit, L., Joliot, & Zago, L. (2024). Atlas for the
   Lateralized Visuospatial Attention Networks (ALANs): Insights from
   fMRI and Network Analyses. DOI:
-  [10.1101/2024.02.13.580164](https://doi.org/10.1101/2024.02.13.580164)
+  [10.1162/imag_a_00208](https://doi.org/10.1162/imag_a_00208)
 
 For usage of the associated ***code***, ***data***, or
 ***visualization***, please also cite:
